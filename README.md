@@ -29,5 +29,5 @@
 
 | 주차  | 1회차                                                        | 2회차                                                        |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1주차 | [10/07](https://github.com/hamsangjin/CodingTest_Study/tree/main/2024_10/2%EC%A3%BC%EC%B0%A8/10_07) | [10/10](https://github.com/hamsangjin/CodingTest_Study/tree/main/2024_10/2%EC%A3%BC%EC%B0%A8/10_10) |
+| 1주차 | [10/07](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_07) | [10/10](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_10) |
 
