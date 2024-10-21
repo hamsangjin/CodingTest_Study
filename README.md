@@ -42,9 +42,11 @@
 
 <div align="center">
   
-| 날짜 | 서희정 | 송민형 | 윤혜원 | 이정환 | 함상진|
-| :---: | :---: | :---: | :---: | :---: | :---: | 
+|                                                      날짜                                                       | 서희정 | 송민형 | 윤혜원 | 이정환 | 함상진|
+|:-------------------------------------------------------------------------------------------------------------:| :---: | :---: | :---: | :---: | :---: | 
 | [1주차 (10/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_07) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [1주차 (10/10)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_10) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [2주차 (10/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_14) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [2주차 (10/17)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_17) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [3주차 (10/21)](https://github.com/hamsangjin/CodingTest_Study/tree/main/3%EC%A3%BC%EC%B0%A8%20(2024-10)/10_21) | ✅ | ✅ | ✅ | ✅ | ✅ |
 </div>
