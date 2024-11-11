@@ -1,7 +1,7 @@
 # 📢 코테 하태핫태 스터디
 - 매주 월요일: `금/토/일` 풀이 공유
 - 매주 목요일: `화/수` 풀이 공유
-- 시간: `21:00`
+- 시간: `20:00`
 
 <br>
 
@@ -54,4 +54,7 @@
 | [4주차 (10/28)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_28) | ✅ | ✅ | ✅ | ✅ |  ❌ |
 | [4주차 (10/31)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_31) | ✅ | ✅ | ✅ | ✅ |  ✅ |
 | [5주차 (11/04)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_04) | ✅ | ✅ | ✅ | ✅ |  ✅ |
+| [5주차 (11/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_07) | ✅ | ✅ | ✅ | ✅ |  ✅ |
+| [6주차 (11/11)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_11) | ✅ | ✅ | ❌ | ✅ |  ✅ |
+
 </div>
