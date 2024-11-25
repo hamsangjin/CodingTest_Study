@@ -58,6 +58,6 @@
 | [6주차 (11/11)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_11) |   ✅   |   ✅   |   ❌   |   ✅   |   ✅   |
 | [6주차 (11/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_14) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
 | [7주차 (11/18)](https://github.com/hamsangjin/CodingTest_Study/tree/main/7%EC%A3%BC%EC%B0%A8%20(2024-11)/11_18) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
-| [8주차 (11/25)](https://github.com/hamsangjin/CodingTest_Study/tree/main/8%EC%A3%BC%EC%B0%A8(2024-11)/11_25) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+| [8주차 (11/25)](https://github.com/hamsangjin/CodingTest_Study/tree/main/8%EC%A3%BC%EC%B0%A8%20(2024-11)/11_25) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
 
 </div>
