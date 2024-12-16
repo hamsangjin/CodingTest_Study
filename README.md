@@ -43,21 +43,24 @@
 
 <div align="center">
   
-|                                                      날짜                                                       | 서희정 | 송민형 | 윤혜원 | 이정환 | 함상진 |
-|:---------------------------------------------------------------------------------------------------------------:| :----: | :----: | :----: | :----: | :----: | 
-| [1주차 (10/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_07) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [1주차 (10/10)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_10) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [2주차 (10/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_14) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [2주차 (10/17)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_17) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [3주차 (10/21)](https://github.com/hamsangjin/CodingTest_Study/tree/main/3%EC%A3%BC%EC%B0%A8%20(2024-10)/10_21) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [3주차 (10/24)](https://github.com/hamsangjin/CodingTest_Study/tree/main/3%EC%A3%BC%EC%B0%A8%20(2024-10)/10_24) |   ✅   |   ✅   |   ✅   |   ✅   |   ❌   |
-| [4주차 (10/28)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_28) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [4주차 (10/31)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_31) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [5주차 (11/04)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_04) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [5주차 (11/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_07) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [6주차 (11/11)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_11) |   ✅   |   ✅   |   ❌   |   ✅   |   ✅   |
-| [6주차 (11/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_14) |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| [7주차 (11/18)](https://github.com/hamsangjin/CodingTest_Study/tree/main/7%EC%A3%BC%EC%B0%A8%20(2024-11)/11_18) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
-| [8주차 (11/25)](https://github.com/hamsangjin/CodingTest_Study/tree/main/8%EC%A3%BC%EC%B0%A8%20(2024-11)/11_25) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+|                                                      날짜                                                         | 서희정 | 송민형 | 윤혜원 | 이정환 | 함상진 |
+|:-----------------------------------------------------------------------------------------------------------------:| :----: | :----: | :----: | :----: | :----: | 
+| [1주차 (10/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_07)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [1주차 (10/10)](https://github.com/hamsangjin/CodingTest_Study/tree/main/1%EC%A3%BC%EC%B0%A8%20(2024-10)/10_10)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [2주차 (10/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_14)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [2주차 (10/17)](https://github.com/hamsangjin/CodingTest_Study/tree/main/2%EC%A3%BC%EC%B0%A8%20(2024-10)/10_17)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [3주차 (10/21)](https://github.com/hamsangjin/CodingTest_Study/tree/main/3%EC%A3%BC%EC%B0%A8%20(2024-10)/10_21)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [3주차 (10/24)](https://github.com/hamsangjin/CodingTest_Study/tree/main/3%EC%A3%BC%EC%B0%A8%20(2024-10)/10_24)   |   ✅   |   ✅   |   ✅   |   ✅   |   ❌   |
+| [4주차 (10/28)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_28)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [4주차 (10/31)](https://github.com/hamsangjin/CodingTest_Study/tree/main/4%EC%A3%BC%EC%B0%A8%20(2024-10)/10_31)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [5주차 (11/04)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_04)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [5주차 (11/07)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_07)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [6주차 (11/11)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_11)   |   ✅   |   ✅   |   ❌   |   ✅   |   ✅   |
+| [6주차 (11/14)](https://github.com/hamsangjin/CodingTest_Study/tree/main/5%EC%A3%BC%EC%B0%A8%20(2024-11)/11_14)   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| [7주차 (11/18)](https://github.com/hamsangjin/CodingTest_Study/tree/main/7%EC%A3%BC%EC%B0%A8%20(2024-11)/11_18)   |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+| [8주차 (11/25)](https://github.com/hamsangjin/CodingTest_Study/tree/main/8%EC%A3%BC%EC%B0%A8%20(2024-11)/11_25)   |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+| [9주차 (12/02)](https://github.com/hamsangjin/CodingTest_Study/tree/main/9%EC%A3%BC%EC%B0%A8%20(2024-12)/12_02)   |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+| [9주차 (12/05)](https://github.com/hamsangjin/CodingTest_Study/tree/main/9%EC%A3%BC%EC%B0%A8%20(2024-12)/12_05)   |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
+| [10주차 (12/16)](https://github.com/hamsangjin/CodingTest_Study/tree/main/10%EC%A3%BC%EC%B0%A8%20(2024-12)/12_16) |   ✅   |   ✅   |   ✅   |   ❌   |   ✅   |
 
 </div>
